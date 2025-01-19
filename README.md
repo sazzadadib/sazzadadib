@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **React, ML, AI and DL**
 
-- 👨‍💻 All of my projects are available at [sazzad.free.nf](sazzad.free.nf)
+- 👨‍💻 All of my projects are available at [https://sazzadadib.vercel.app](https://sazzadadib.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, PHP**
 
 - 📫 How to reach me **sazzadhossainadib@gmail.com**
 
-- 📄 Know about my experiences [sazzad.free.nf](sazzad.free.nf)
+- 📄 Know about my experiences [https://sazzadadib.vercel.app](https://sazzadadib.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
