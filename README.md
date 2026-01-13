@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="./src/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadadib&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadadib" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadadib&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadadib" /> </p> -->
 
 ## 👨‍💻 About Me
 
