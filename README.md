@@ -61,21 +61,16 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazzadadib&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sazzadadib&theme=tokyonight" alt="Top Languages by Repo" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sazzadadib&theme=tokyonight" alt="Top Languages by Commit" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sazzadadib&theme=tokyonight" alt="Stats" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sazzadadib&theme=tokyonight&utcOffset=6" alt="Productive Time" width="400"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazzadadib&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sazzadadib&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sazzadadib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadadib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
 ## 🤝 Connect with Me
