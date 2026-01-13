@@ -58,15 +58,24 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazzadadib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzadadib&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sazzadadib&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadadib&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sazzadadib&theme=tokyonight" alt="Top Languages by Repo" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sazzadadib&theme=tokyonight" alt="Top Languages by Commit" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sazzadadib&theme=tokyonight" alt="Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sazzadadib&theme=tokyonight&utcOffset=6" alt="Productive Time" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazzadadib&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ## 🤝 Connect with Me
